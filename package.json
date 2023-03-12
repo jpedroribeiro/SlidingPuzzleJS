@@ -1,0 +1,8 @@
+{
+  "name": "SlidingPuzzleJS",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "prettier": "^2.8.4"
+  }
+}
